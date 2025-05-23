@@ -21,8 +21,8 @@ const textNodes = [
         background: `../images/PremiseOpenScene.png`
     },
 
-    {
-        id: 1,
+    {git add .
+
         text: `As you study the fragile map, your heart races. The markings hint at a hidden
             path leading to the artifact's resting place. A name scribbled in the corner catches your
             eye—Professor Eldrin, a historian who once pursued the legend himself. What will you do?` ,
